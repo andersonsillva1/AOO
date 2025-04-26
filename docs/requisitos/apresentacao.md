@@ -12,10 +12,8 @@ Jogadores que têm dificuldade para encontrar outros gamers com interesses semel
 - Sistema de busca por jogadores compatíveis
 - Sugestão de amigos conforme estilo de jogo e plataforma
 
-CLIQUE [AQUI](requisitosGerais.md) PARA MAIS DETALHES.
----
+### 👉 Veja os [Requisitos](requisitosGerais.md) do Sistema.
 
 ---
 
 > *Ideia inspirada na dificuldade de encontrar novos parceiros de jogo quando amigos antigos param de jogar.*
-
