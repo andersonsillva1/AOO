@@ -1,6 +1,6 @@
 # Sistema de Conexão de Jogadores por Interesse
 
-## Problema que o Sistema Resolve
+## Sistema Voltado Para
 Jogadores que têm dificuldade para encontrar outros gamers com interesses semelhantes, horários compatíveis e preferência pelos mesmos jogos.
 
 ## Público-Alvo
